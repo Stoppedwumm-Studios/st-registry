@@ -30,7 +30,7 @@ fs.readdirSync(path.join(__dirname, "hosted")).forEach(file => {
     const filePath = path.join(__dirname, "hosted", file);
     const stats = fs.statSync(filePath);
     if (stats.isFile()) {
-        fs.copyFileSync(filePath, path.join(__dirname, 'docs', "hosted", file));
+        fs.copyFileSync(filePath, path.join(__dirname, 'docs', "files", file));
         console.log(file + " copied successfully.");
     }
 }
