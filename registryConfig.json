@@ -28,6 +28,26 @@
                     "url": "https://stoppedwummstudios.github.io/st-registry/hosted/1.21.1-neoforge-installer.jar"
                 }
             ]
+        },
+        {
+            "name": "minecraft",
+            "path": "m/minecraft",
+            "url": [
+                {
+                    "versionRule": "mc_1.21.1",
+                    "url": "https://stoppedwummstudios.github.io/st-registry/hosted/mc-1.21.1.json"
+                }
+            ]
+        },
+        {
+            "name": "neoforge_json",
+            "path": "m/neoforge_json",
+            "url": [
+                {
+                    "versionRule": "mc_1.21.1",
+                    "url": "https://stoppedwummstudios.github.io/st-registry/hosted/neoforge-1.21.1.json"
+                }
+            ]
         }
     ]
 }
