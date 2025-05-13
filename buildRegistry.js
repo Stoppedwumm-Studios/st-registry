@@ -8,6 +8,9 @@ const indexFileContent = indexFile.generateIndexFile(modules.module);
 fs.writeFileSync(path.join(__dirname, 'docs', 'index.json'), indexFileContent)
 
 console.log("Index file generated successfully.");
+// remove old files
+fs.rmdirSync(path.join(__dirname, 'docs'), { recursive: true, force: true });
+fs.mkdirSync(path.join(__dirname, 'docs'), { recursive: true });
 modules.module.forEach(m => {
     fs.mkdirSync(path.join(__dirname, 'docs', path.dirname(m.path)), { recursive: true });
     fs.writeFileSync(path.join(__dirname, 'docs', m.path + '.json'), JSON.stringify(m, null, 2));
