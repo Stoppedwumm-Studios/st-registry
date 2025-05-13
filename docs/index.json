@@ -1,0 +1,12 @@
+[
+  {
+    "name": "registry",
+    "path": "m/registry",
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/registry.json"
+  },
+  {
+    "name": "baritone_builds",
+    "path": "m/baritone_builds",
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/baritone_builds.json"
+  }
+]
