@@ -23,3 +23,15 @@ modules.module.forEach(m => {
         })
     }
 })
+
+console.log("All files generated successfully.");
+
+fs.readdirSync(path.join(__dirname, "hosted")).forEach(file => {
+    const filePath = path.join(__dirname, "hosted", file);
+    const stats = fs.statSync(filePath);
+    if (stats.isFile()) {
+        fs.copyFileSync(filePath, path.join(__dirname, 'docs', "hosted", file));
+        console.log(file + " copied successfully.");
+    }
+}
+);
