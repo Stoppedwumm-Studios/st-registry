@@ -1,0 +1,12 @@
+{
+  "name": "st-registry",
+  "version": "1.0.0",
+  "description": "Registry for Stoppedwumm Studios files",
+  "main": "buildRegistry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

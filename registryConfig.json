@@ -1,0 +1,19 @@
+{
+    "module": [
+        {
+            "name": "registry",
+            "path": "m/registry",
+            "url": "https://example.com/example.zip"
+        },
+        {
+            "name": "baritone_builds",
+            "path": "m/baritone_builds",
+            "url": [
+                {
+                    "versionRule": "mc_1.21.1",
+                    "url": "https://example.com/baritone_builds/1.21.1.zip"
+                }
+            ]
+        }
+    ]
+}
