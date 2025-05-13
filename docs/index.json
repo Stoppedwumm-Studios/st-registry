@@ -8,5 +8,10 @@
     "name": "baritone_builds",
     "path": "m/baritone_builds",
     "url": "https://stoppedwumm-studios.github.io/st-registry/m/baritone_builds.json"
+  },
+  {
+    "name": "neoforge-installer",
+    "path": "m/neoforge",
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/neoforge.json"
   }
 ]

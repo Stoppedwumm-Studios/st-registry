@@ -18,6 +18,16 @@
                     "url": "https://example.com/baritone_builds/1.20.1.zip"
                 }
             ]
+        },
+        {
+            "name": "neoforge-installer",
+            "path": "m/neoforge",
+            "url": [
+                {
+                    "versionRule": "mc_1.21.1",
+                    "url": "https://stoppedwummstudios.github.io/st-registry/hosted/1.21.1-neoforge-installer.jar"
+                }
+            ]
         }
     ]
 }
