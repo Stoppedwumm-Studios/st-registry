@@ -4,7 +4,8 @@
   "description": "Registry for Stoppedwumm Studios files",
   "main": "buildRegistry.js",
   "scripts": {
-    "test": "node buildRegistry.js"
+    "test": "node buildRegistry.js",
+    "test_server": "node serverTest.mjs"
   },
   "keywords": [],
   "author": "",
