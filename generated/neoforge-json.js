@@ -26,6 +26,10 @@ if (!fs.existsSync(tmp)) {
 for (const version of versions) {
     console.log(version)
     const versionPath = path.join(tmp, version);
+    if (fs.existsSync(path.join(__dirname, "..", "hosted", "neoforge.releases", `${version}.json`))) {
+        console.log(`neoforge ${version} already exists in hosted directory.`);
+        continue;
+    }
     if (!fs.existsSync(versionPath)) {
         fs.mkdirSync(versionPath, { recursive: true });
     }
