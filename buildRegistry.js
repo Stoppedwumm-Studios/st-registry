@@ -2,13 +2,23 @@ console.time("build_reg");
 const indexFile = require('./lib/indexFile');
 const path = require('path');
 const fs = require('fs');
-const modules = require("./registryConfig.json");
+let modules = require("./registryConfig.json");
 
 // remove old files
 fs.rmSync(path.join(__dirname, 'docs'), { recursive: true, force: true });
 fs.mkdirSync(path.join(__dirname, 'docs'), { recursive: true });
 fs.mkdirSync(path.join(__dirname, 'docs', 'files'), { recursive: true });
 fs.mkdirSync(path.join(__dirname, 'docs', 'm'), { recursive: true });
+fs.mkdirSync(path.join(__dirname, 'docs', 'generated'), { recursive: true });
+fs.mkdirSync(path.join(__dirname, 'tmp'), { recursive: true });
+
+const generatedModules = fs.readdirSync(path.join(__dirname, 'generated'))
+
+for (const gm of generatedModules) {
+    if (!gm.endsWith('.js')) continue; // skip non-js files
+    console.log(gm)
+    modules.module.push(require(path.join(__dirname, 'generated', gm)));
+}
 
 console.time("writeIndexFile");
 
