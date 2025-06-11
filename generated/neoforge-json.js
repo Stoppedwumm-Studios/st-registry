@@ -82,7 +82,7 @@ for (const version of versions) {
 unmodified.url = versions.map(v => {
     return {
         versionRule: v,
-        url: "https://github.com/Stoppedwumm-Studios/st-registry/blob/main/docs/files/"+ v + ".json"
+        url: "https://stoppedwumm-studios.github.io/st-registry/files/"+ v + ".json"
     };
 });
 

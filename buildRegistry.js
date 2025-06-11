@@ -69,15 +69,7 @@ console.log("All files generated successfully.");
 // copy hosted files
 console.time("copyHostedFiles");
 
-fs.readdirSync(path.join(__dirname, "hosted")).forEach(file => {
-    const filePath = path.join(__dirname, "hosted", file);
-    const stats = fs.statSync(filePath);
-    if (stats.isFile()) {
-        fs.copyFileSync(filePath, path.join(__dirname, 'docs', "files", file));
-        console.log(file + " copied successfully.");
-    }
-}
-);
+fs.cpSync(path.join(__dirname, "hosted"), path.join(__dirname, "docs", "files"), { recursive: true, force: true });
 console.log("===== Hosted files copied successfully =====");
 console.timeEnd("copyHostedFiles");
 console.log("============================================");
