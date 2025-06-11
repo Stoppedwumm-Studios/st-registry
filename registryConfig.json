@@ -1,51 +1,12 @@
 {
     "module": [
         {
-            "name": "registry",
-            "path": "m/registry",
-            "url": "https://example.com/example.zip"
-        },
-        {
-            "name": "baritone_builds",
-            "path": "m/baritone_builds",
-            "url": [
-                {
-                    "versionRule": "mc_1.21.1",
-                    "url": "https://example.com/baritone_builds/1.21.1.zip"
-                },
-                {
-                    "versionRule": "mc_1.20.1",
-                    "url": "https://example.com/baritone_builds/1.20.1.zip"
-                }
-            ]
-        },
-        {
-            "name": "neoforge-installer",
-            "path": "m/neoforge",
-            "url": [
-                {
-                    "versionRule": "mc_1.21.1",
-                    "url": "https://github.com/Stoppedwumm-Studios/st-registry/raw/refs/heads/main/docs/files/1.21.1-neoforge-installer.jar"
-                }
-            ]
-        },
-        {
             "name": "minecraft",
             "path": "m/minecraft",
             "url": [
                 {
                     "versionRule": "mc_1.21.1",
                     "url": "https://github.com/Stoppedwumm-Studios/st-registry/raw/refs/heads/main/docs/files/mc-1.21.1.json"
-                }
-            ]
-        },
-        {
-            "name": "neoforge_json",
-            "path": "m/neoforge_json",
-            "url": [
-                {
-                    "versionRule": "mc_1.21.1",
-                    "url": "https://github.com/Stoppedwumm-Studios/st-registry/raw/refs/heads/main/docs/files/neoforge-1.21.1.json"
                 }
             ]
         }
