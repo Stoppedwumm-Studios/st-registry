@@ -1,0 +1,885 @@
+{
+  "name": "neoforge-installer",
+  "21.1.172": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.1.172.json"
+  },
+  "21.1.173": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.1.173.json"
+  },
+  "21.1.174": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.1.174.json"
+  },
+  "21.1.175": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.1.175.json"
+  },
+  "21.1.176": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.1.176.json"
+  },
+  "21.2.0-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.2.0-beta.json"
+  },
+  "21.2.1-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.2.1-beta.json"
+  },
+  "21.3.0-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.0-beta.json"
+  },
+  "21.3.1-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.1-beta.json"
+  },
+  "21.3.2-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.2-beta.json"
+  },
+  "21.3.3-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.3-beta.json"
+  },
+  "21.3.4-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.4-beta.json"
+  },
+  "21.3.5-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.5-beta.json"
+  },
+  "21.3.6-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.6-beta.json"
+  },
+  "21.3.7-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.7-beta.json"
+  },
+  "21.3.8-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.8-beta.json"
+  },
+  "21.3.9-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.9-beta.json"
+  },
+  "21.3.10-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.10-beta.json"
+  },
+  "21.3.11-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.11-beta.json"
+  },
+  "21.3.12-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.12-beta.json"
+  },
+  "21.3.13-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.13-beta.json"
+  },
+  "21.3.14-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.14-beta.json"
+  },
+  "21.3.15-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.15-beta.json"
+  },
+  "21.3.16-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.16-beta.json"
+  },
+  "21.3.17-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.17-beta.json"
+  },
+  "21.3.18-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.18-beta.json"
+  },
+  "21.3.19-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.19-beta.json"
+  },
+  "21.3.20-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.20-beta.json"
+  },
+  "21.3.21-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.21-beta.json"
+  },
+  "21.3.22-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.22-beta.json"
+  },
+  "21.3.23-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.23-beta.json"
+  },
+  "21.3.24-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.24-beta.json"
+  },
+  "21.3.25-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.25-beta.json"
+  },
+  "21.3.26-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.26-beta.json"
+  },
+  "21.3.27-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.27-beta.json"
+  },
+  "21.3.28-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.28-beta.json"
+  },
+  "21.3.29-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.29-beta.json"
+  },
+  "21.3.30-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.30-beta.json"
+  },
+  "21.3.31-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.31-beta.json"
+  },
+  "21.3.32-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.32-beta.json"
+  },
+  "21.3.33-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.33-beta.json"
+  },
+  "21.3.34-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.34-beta.json"
+  },
+  "21.3.35-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.35-beta.json"
+  },
+  "21.3.36-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.36-beta.json"
+  },
+  "21.3.37-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.37-beta.json"
+  },
+  "21.3.38-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.38-beta.json"
+  },
+  "21.3.39-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.39-beta.json"
+  },
+  "21.3.40-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.40-beta.json"
+  },
+  "21.3.41-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.41-beta.json"
+  },
+  "21.3.42-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.42-beta.json"
+  },
+  "21.3.43-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.43-beta.json"
+  },
+  "21.3.44-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.44-beta.json"
+  },
+  "21.3.45-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.45-beta.json"
+  },
+  "21.3.46-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.46-beta.json"
+  },
+  "21.3.47-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.47-beta.json"
+  },
+  "21.3.48-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.48-beta.json"
+  },
+  "21.3.49-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.49-beta.json"
+  },
+  "21.3.50-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.50-beta.json"
+  },
+  "21.3.51-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.51-beta.json"
+  },
+  "21.3.52-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.52-beta.json"
+  },
+  "21.3.53-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.53-beta.json"
+  },
+  "21.3.54-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.54-beta.json"
+  },
+  "21.3.55-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.55-beta.json"
+  },
+  "21.3.56": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.56.json"
+  },
+  "21.3.57": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.57.json"
+  },
+  "21.3.58": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.58.json"
+  },
+  "21.3.59": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.59.json"
+  },
+  "21.3.60": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.60.json"
+  },
+  "21.3.61": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.61.json"
+  },
+  "21.3.62": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.62.json"
+  },
+  "21.3.63": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.63.json"
+  },
+  "21.3.64": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.64.json"
+  },
+  "21.3.65": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.65.json"
+  },
+  "21.3.66": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.66.json"
+  },
+  "21.3.67": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.67.json"
+  },
+  "21.3.68": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.68.json"
+  },
+  "21.3.69": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.69.json"
+  },
+  "21.3.70": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.70.json"
+  },
+  "21.3.71": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.71.json"
+  },
+  "21.3.72": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.72.json"
+  },
+  "21.3.73": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.73.json"
+  },
+  "21.3.74": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.74.json"
+  },
+  "21.3.75": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.75.json"
+  },
+  "21.3.76": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.3.76.json"
+  },
+  "21.4.0-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.0-beta.json"
+  },
+  "21.4.1-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.1-beta.json"
+  },
+  "21.4.2-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.2-beta.json"
+  },
+  "21.4.3-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.3-beta.json"
+  },
+  "21.4.4-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.4-beta.json"
+  },
+  "21.4.5-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.5-beta.json"
+  },
+  "21.4.6-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.6-beta.json"
+  },
+  "21.4.7-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.7-beta.json"
+  },
+  "21.4.8-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.8-beta.json"
+  },
+  "21.4.9-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.9-beta.json"
+  },
+  "21.4.10-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.10-beta.json"
+  },
+  "21.4.11-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.11-beta.json"
+  },
+  "21.4.12-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.12-beta.json"
+  },
+  "21.4.13-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.13-beta.json"
+  },
+  "21.4.14-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.14-beta.json"
+  },
+  "21.4.15-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.15-beta.json"
+  },
+  "21.4.16-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.16-beta.json"
+  },
+  "21.4.17-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.17-beta.json"
+  },
+  "21.4.18-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.18-beta.json"
+  },
+  "21.4.19-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.19-beta.json"
+  },
+  "21.4.20-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.20-beta.json"
+  },
+  "21.4.21-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.21-beta.json"
+  },
+  "21.4.22-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.22-beta.json"
+  },
+  "21.4.23-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.23-beta.json"
+  },
+  "21.4.24-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.24-beta.json"
+  },
+  "21.4.25-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.25-beta.json"
+  },
+  "21.4.26-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.26-beta.json"
+  },
+  "21.4.27-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.27-beta.json"
+  },
+  "21.4.28-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.28-beta.json"
+  },
+  "21.4.29-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.29-beta.json"
+  },
+  "21.4.30-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.30-beta.json"
+  },
+  "21.4.33-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.33-beta.json"
+  },
+  "21.4.34-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.34-beta.json"
+  },
+  "21.4.35-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.35-beta.json"
+  },
+  "21.4.36-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.36-beta.json"
+  },
+  "21.4.37-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.37-beta.json"
+  },
+  "21.4.38-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.38-beta.json"
+  },
+  "21.4.39-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.39-beta.json"
+  },
+  "21.4.40-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.40-beta.json"
+  },
+  "21.4.41-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.41-beta.json"
+  },
+  "21.4.42-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.42-beta.json"
+  },
+  "21.4.43-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.43-beta.json"
+  },
+  "21.4.44-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.44-beta.json"
+  },
+  "21.4.45-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.45-beta.json"
+  },
+  "21.4.46-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.46-beta.json"
+  },
+  "21.4.47-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.47-beta.json"
+  },
+  "21.4.48-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.48-beta.json"
+  },
+  "21.4.49-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.49-beta.json"
+  },
+  "21.4.50-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.50-beta.json"
+  },
+  "21.4.51-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.51-beta.json"
+  },
+  "21.4.52-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.52-beta.json"
+  },
+  "21.4.53-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.53-beta.json"
+  },
+  "21.4.54-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.54-beta.json"
+  },
+  "21.4.55-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.55-beta.json"
+  },
+  "21.4.56-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.56-beta.json"
+  },
+  "21.4.57-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.57-beta.json"
+  },
+  "21.4.58-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.58-beta.json"
+  },
+  "21.4.59-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.59-beta.json"
+  },
+  "21.4.60-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.60-beta.json"
+  },
+  "21.4.61-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.61-beta.json"
+  },
+  "21.4.62-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.62-beta.json"
+  },
+  "21.4.63-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.63-beta.json"
+  },
+  "21.4.64-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.64-beta.json"
+  },
+  "21.4.65-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.65-beta.json"
+  },
+  "21.4.66-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.66-beta.json"
+  },
+  "21.4.67-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.67-beta.json"
+  },
+  "21.4.68-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.68-beta.json"
+  },
+  "21.4.69-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.69-beta.json"
+  },
+  "21.4.70-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.70-beta.json"
+  },
+  "21.4.71-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.71-beta.json"
+  },
+  "21.4.72-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.72-beta.json"
+  },
+  "21.4.73-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.73-beta.json"
+  },
+  "21.4.74-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.74-beta.json"
+  },
+  "21.4.75-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.75-beta.json"
+  },
+  "21.4.76-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.76-beta.json"
+  },
+  "21.4.77-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.77-beta.json"
+  },
+  "21.4.78-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.78-beta.json"
+  },
+  "21.4.79-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.79-beta.json"
+  },
+  "21.4.80-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.80-beta.json"
+  },
+  "21.4.81-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.81-beta.json"
+  },
+  "21.4.82-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.82-beta.json"
+  },
+  "21.4.83-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.83-beta.json"
+  },
+  "21.4.84-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.84-beta.json"
+  },
+  "21.4.85-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.85-beta.json"
+  },
+  "21.4.86-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.86-beta.json"
+  },
+  "21.4.87-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.87-beta.json"
+  },
+  "21.4.88-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.88-beta.json"
+  },
+  "21.4.89-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.89-beta.json"
+  },
+  "21.4.90-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.90-beta.json"
+  },
+  "21.4.91-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.91-beta.json"
+  },
+  "21.4.92-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.92-beta.json"
+  },
+  "21.4.93-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.93-beta.json"
+  },
+  "21.4.94-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.94-beta.json"
+  },
+  "21.4.95-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.95-beta.json"
+  },
+  "21.4.96-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.96-beta.json"
+  },
+  "21.4.97-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.97-beta.json"
+  },
+  "21.4.98-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.98-beta.json"
+  },
+  "21.4.99-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.99-beta.json"
+  },
+  "21.4.100-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.100-beta.json"
+  },
+  "21.4.101-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.101-beta.json"
+  },
+  "21.4.102-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.102-beta.json"
+  },
+  "21.4.103-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.103-beta.json"
+  },
+  "21.4.104-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.104-beta.json"
+  },
+  "21.4.105-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.105-beta.json"
+  },
+  "21.4.106-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.106-beta.json"
+  },
+  "21.4.107-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.107-beta.json"
+  },
+  "21.4.108-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.108-beta.json"
+  },
+  "21.4.109-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.109-beta.json"
+  },
+  "21.4.110-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.110-beta.json"
+  },
+  "21.4.111-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.111-beta.json"
+  },
+  "21.4.112-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.112-beta.json"
+  },
+  "21.4.113-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.113-beta.json"
+  },
+  "21.4.114-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.114-beta.json"
+  },
+  "21.4.115-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.115-beta.json"
+  },
+  "21.4.116-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.116-beta.json"
+  },
+  "21.4.118-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.118-beta.json"
+  },
+  "21.4.119-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.119-beta.json"
+  },
+  "21.4.120-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.120-beta.json"
+  },
+  "21.4.121": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.121.json"
+  },
+  "21.4.122": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.122.json"
+  },
+  "21.4.123": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.123.json"
+  },
+  "21.4.124": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.124.json"
+  },
+  "21.4.125": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.125.json"
+  },
+  "21.4.126": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.126.json"
+  },
+  "21.4.127": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.127.json"
+  },
+  "21.4.128": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.128.json"
+  },
+  "21.4.129": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.129.json"
+  },
+  "21.4.130": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.130.json"
+  },
+  "21.4.131": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.131.json"
+  },
+  "21.4.132": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.132.json"
+  },
+  "21.4.133": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.133.json"
+  },
+  "21.4.134": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.134.json"
+  },
+  "21.4.135": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.135.json"
+  },
+  "21.4.136": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.136.json"
+  },
+  "21.4.137": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.4.137.json"
+  },
+  "21.5.0-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.0-beta.json"
+  },
+  "21.5.1-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.1-beta.json"
+  },
+  "21.5.2-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.2-beta.json"
+  },
+  "21.5.3-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.3-beta.json"
+  },
+  "21.5.4-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.4-beta.json"
+  },
+  "21.5.5-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.5-beta.json"
+  },
+  "21.5.6-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.6-beta.json"
+  },
+  "21.5.7-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.7-beta.json"
+  },
+  "21.5.8-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.8-beta.json"
+  },
+  "21.5.9-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.9-beta.json"
+  },
+  "21.5.10-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.10-beta.json"
+  },
+  "21.5.11-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.11-beta.json"
+  },
+  "21.5.12-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.12-beta.json"
+  },
+  "21.5.13-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.13-beta.json"
+  },
+  "21.5.14-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.14-beta.json"
+  },
+  "21.5.15-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.15-beta.json"
+  },
+  "21.5.16-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.16-beta.json"
+  },
+  "21.5.17-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.17-beta.json"
+  },
+  "21.5.18-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.18-beta.json"
+  },
+  "21.5.19-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.19-beta.json"
+  },
+  "21.5.20-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.20-beta.json"
+  },
+  "21.5.21-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.21-beta.json"
+  },
+  "21.5.22-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.22-beta.json"
+  },
+  "21.5.23-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.23-beta.json"
+  },
+  "21.5.24-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.24-beta.json"
+  },
+  "21.5.25-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.25-beta.json"
+  },
+  "21.5.26-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.26-beta.json"
+  },
+  "21.5.28-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.28-beta.json"
+  },
+  "21.5.29-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.29-beta.json"
+  },
+  "21.5.30-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.30-beta.json"
+  },
+  "21.5.31-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.31-beta.json"
+  },
+  "21.5.32-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.32-beta.json"
+  },
+  "21.5.33-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.33-beta.json"
+  },
+  "21.5.34-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.34-beta.json"
+  },
+  "21.5.35-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.35-beta.json"
+  },
+  "21.5.36-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.36-beta.json"
+  },
+  "21.5.37-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.37-beta.json"
+  },
+  "21.5.38-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.38-beta.json"
+  },
+  "21.5.39-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.39-beta.json"
+  },
+  "21.5.40-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.40-beta.json"
+  },
+  "21.5.41-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.41-beta.json"
+  },
+  "21.5.42-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.42-beta.json"
+  },
+  "21.5.43-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.43-beta.json"
+  },
+  "21.5.44-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.44-beta.json"
+  },
+  "21.5.45-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.45-beta.json"
+  },
+  "21.5.46-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.46-beta.json"
+  },
+  "21.5.47-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.47-beta.json"
+  },
+  "21.5.48-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.48-beta.json"
+  },
+  "21.5.49-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.49-beta.json"
+  },
+  "21.5.50-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.50-beta.json"
+  },
+  "21.5.51-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.51-beta.json"
+  },
+  "21.5.52-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.52-beta.json"
+  },
+  "21.5.53-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.53-beta.json"
+  },
+  "21.5.54-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.54-beta.json"
+  },
+  "21.5.55-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.55-beta.json"
+  },
+  "21.5.56-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.56-beta.json"
+  },
+  "21.5.57-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.57-beta.json"
+  },
+  "21.5.58-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.58-beta.json"
+  },
+  "21.5.59-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.59-beta.json"
+  },
+  "21.5.60-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.60-beta.json"
+  },
+  "21.5.61-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.61-beta.json"
+  },
+  "21.5.62-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.62-beta.json"
+  },
+  "21.5.63-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.63-beta.json"
+  },
+  "21.5.64-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.64-beta.json"
+  },
+  "21.5.65-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.65-beta.json"
+  },
+  "21.5.66-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.66-beta.json"
+  },
+  "21.5.67-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.67-beta.json"
+  },
+  "21.5.68-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.68-beta.json"
+  },
+  "21.5.69-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.69-beta.json"
+  },
+  "21.5.70-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.70-beta.json"
+  },
+  "21.5.71-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.71-beta.json"
+  },
+  "21.5.72-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.72-beta.json"
+  },
+  "21.5.73-beta": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.73-beta.json"
+  },
+  "21.5.74": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.74.json"
+  },
+  "21.5.75": {
+    "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge/21.5.75.json"
+  }
+}

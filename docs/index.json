@@ -1,0 +1,15 @@
+{
+  "modules": [
+    {
+      "name": "minecraft",
+      "path": "m/minecraft",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/m/minecraft.json"
+    },
+    {
+      "name": "neoforge-installer",
+      "path": "m/nforge",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge.json"
+    }
+  ],
+  "documentation": "https://github.com/Stoppedwumm-Studios/st-registry"
+}
