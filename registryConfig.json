@@ -9,6 +9,11 @@
                     "url": "https://github.com/Stoppedwumm-Studios/st-registry/raw/refs/heads/main/docs/files/mc-1.21.1.json"
                 }
             ]
+        },
+        {
+            "name": "EaglerSPRelay",
+            "path": "EaglerSPRelay",
+            "url": "https://github.com/StoppedwummPython/EaglerSPPythonRelay/archive/refs/heads/main.zip"
         }
     ]
 }
