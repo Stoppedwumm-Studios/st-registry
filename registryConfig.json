@@ -12,7 +12,7 @@
         },
         {
             "name": "EaglerSPRelay",
-            "path": "EaglerSPRelay",
+            "path": "stmg/EaglerSPRelay",
             "url": "https://github.com/StoppedwummPython/EaglerSPPythonRelay/archive/refs/heads/main.zip"
         }
     ]
