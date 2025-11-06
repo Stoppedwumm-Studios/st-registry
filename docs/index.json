@@ -6,6 +6,11 @@
       "url": "https://stoppedwumm-studios.github.io/st-registry/m/minecraft.json"
     },
     {
+      "name": "EaglerSPRelay",
+      "path": "EaglerSPRelay",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/EaglerSPRelay.json"
+    },
+    {
       "name": "neoforge-installer",
       "path": "m/nforge",
       "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge.json"
