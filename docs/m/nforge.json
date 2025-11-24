@@ -1177,6 +1177,10 @@
     {
       "versionRule": "21.5.75",
       "url": "https://stoppedwumm-studios.github.io/st-registry/files/neoforge.releases/21.5.75.json"
+    },
+    {
+      "versionRule": "21.1.211",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/files/neoforge.releases/21.1.211.json"
     }
   ]
 }
