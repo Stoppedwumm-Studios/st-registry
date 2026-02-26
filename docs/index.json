@@ -11,6 +11,11 @@
       "url": "https://stoppedwumm-studios.github.io/st-registry/stmg/EaglerSPRelay.json"
     },
     {
+      "name": "JavaBase",
+      "path": "java/JavaBase",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/java/JavaBase.json"
+    },
+    {
       "name": "neoforge-installer",
       "path": "m/nforge",
       "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge.json"
