@@ -16,9 +16,9 @@
       "url": "https://stoppedwumm-studios.github.io/st-registry/java/JavaBase.json"
     },
     {
-      "name": "github-auto-updater",
-      "path": "m/updates",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/m/updates.json"
+      "name": "JavaBase",
+      "path": "g/JavaBase",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/g/JavaBase.json"
     },
     {
       "name": "neoforge-installer",

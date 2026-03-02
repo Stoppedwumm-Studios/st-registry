@@ -1,34 +1,38 @@
 {
-  "name": "github-auto-updater",
-  "path": "m/updates",
+  "name": "JavaBase",
+  "path": "g/JavaBase",
   "url": [
     {
-      "versionRule": "JavaBase-v1.2.3",
+      "versionRule": "v1.2.3",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.2.3/app.jar"
     },
     {
-      "versionRule": "JavaBase-v1.2.2",
+      "versionRule": "v1.2.2",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.2.2/app.jar"
     },
     {
-      "versionRule": "JavaBase-v1.2.1",
+      "versionRule": "v1.2.1",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.2.1/app.jar"
     },
     {
-      "versionRule": "JavaBase-v1.2.0",
+      "versionRule": "v1.2.0",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.2.0/app.jar"
     },
     {
-      "versionRule": "JavaBase-v1.1.0",
+      "versionRule": "v1.1.0",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.1.0/app.jar"
     },
     {
-      "versionRule": "JavaBase-v1.0.2",
+      "versionRule": "v1.0.2",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.0.2/app.jar"
     },
     {
-      "versionRule": "JavaBase-v1.0.1",
+      "versionRule": "v1.0.1",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.0.1/app.jar"
+    },
+    {
+      "versionRule": "v1.0.0",
+      "url": "https://api.github.com/repos/Stoppedwumm/JavaBase/zipball/v1.0.0"
     }
   ]
 }
