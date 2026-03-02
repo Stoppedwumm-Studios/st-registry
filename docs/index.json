@@ -12,11 +12,6 @@
     },
     {
       "name": "JavaBase",
-      "path": "java/JavaBase",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/java/JavaBase.json"
-    },
-    {
-      "name": "JavaBase",
       "path": "g/JavaBase",
       "url": "https://stoppedwumm-studios.github.io/st-registry/g/JavaBase.json"
     },
