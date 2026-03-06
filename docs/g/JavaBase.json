@@ -3,6 +3,18 @@
   "path": "g/JavaBase",
   "url": [
     {
+      "versionRule": "v1.3-beta-1.1.1",
+      "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.3-beta-1.1.1/app.jar"
+    },
+    {
+      "versionRule": "v1.3-beta-1.1",
+      "url": "https://api.github.com/repos/Stoppedwumm/JavaBase/zipball/v1.3-beta-1.1"
+    },
+    {
+      "versionRule": "v1.3-beta-1",
+      "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.3-beta-1/app.jar"
+    },
+    {
       "versionRule": "v1.2.3",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.2.3/app.jar"
     },
