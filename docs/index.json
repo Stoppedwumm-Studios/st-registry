@@ -11,6 +11,11 @@
       "url": "https://stoppedwumm-studios.github.io/st-registry/stmg/EaglerSPRelay.json"
     },
     {
+      "name": "hyperPatchClient",
+      "path": "g/hyperPatchClient",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/g/hyperPatchClient.json"
+    },
+    {
       "name": "JavaBase",
       "path": "g/JavaBase",
       "url": "https://stoppedwumm-studios.github.io/st-registry/g/JavaBase.json"
