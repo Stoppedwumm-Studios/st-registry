@@ -16,6 +16,11 @@
       "url": "https://stoppedwumm-studios.github.io/st-registry/g/JavaBase.json"
     },
     {
+      "name": "minecraft-launcher",
+      "path": "g/minecraft-launcher",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/g/minecraft-launcher.json"
+    },
+    {
       "name": "neoforge-installer",
       "path": "m/nforge",
       "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge.json"
