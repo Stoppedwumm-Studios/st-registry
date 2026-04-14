@@ -50,5 +50,6 @@
       "executable": true,
       "execType": "osx"
     }
-  ]
+  ],
+  "origin": "repoIdentifier"
 }
