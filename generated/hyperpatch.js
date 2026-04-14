@@ -6,4 +6,4 @@ const targetPath = path.resolve(__dirname, "../libs/update.js");
 console.log("Checking path:", targetPath);
 console.log("Exists:", fs.existsSync(targetPath));
 
-module.exports = require("../lib/update.js")("Stoppedwumm/hyperPatchClient");
+module.exports = require("../lib/update.js")("Stoppedwumm/hyperPatchClient", true, "osx");
