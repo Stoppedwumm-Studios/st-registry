@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // DEBUG: Check if file exists relative to this script
-const targetPath = path.resolve(__dirname, "../libs/update.js");
+const targetPath = path.resolve(__dirname, "../libs/update.js", false, ".jar");
 console.log("Checking path:", targetPath);
 console.log("Exists:", fs.existsSync(targetPath));
 
