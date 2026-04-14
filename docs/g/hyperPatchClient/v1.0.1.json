@@ -1,6 +1,6 @@
 {
   "versionRule": "v1.0.1",
   "url": "https://api.github.com/repos/Stoppedwumm/hyperPatchClient/zipball/v1.0.1",
-  "executable": false,
-  "execType": "none"
+  "executable": true,
+  "execType": "osx"
 }

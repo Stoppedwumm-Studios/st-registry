@@ -1,6 +1,6 @@
 {
   "versionRule": "v1.1.0",
   "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/v1.1.0/release_osx",
-  "executable": false,
-  "execType": "none"
+  "executable": true,
+  "execType": "osx"
 }
