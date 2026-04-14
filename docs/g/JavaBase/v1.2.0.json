@@ -1,6 +1,6 @@
 {
   "versionRule": "v1.2.0",
   "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.2.0/app.jar",
-  "executable": false,
-  "execType": "none"
+  "executable": true,
+  "execType": "java"
 }

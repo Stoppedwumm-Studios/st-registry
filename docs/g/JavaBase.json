@@ -5,74 +5,74 @@
     {
       "versionRule": "v1.3-beta-1.1.2",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.3-beta-1.1.2/app.jar",
-      "executable": false,
-      "execType": "none"
+      "executable": true,
+      "execType": "java"
     },
     {
       "versionRule": "v1.3-beta-1.1.1",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.3-beta-1.1.1/app.jar",
-      "executable": false,
-      "execType": "none"
+      "executable": true,
+      "execType": "java"
     },
     {
       "versionRule": "v1.3-beta-1.1",
       "url": "https://api.github.com/repos/Stoppedwumm/JavaBase/zipball/v1.3-beta-1.1",
       "executable": false,
-      "execType": "none"
+      "execType": "java"
     },
     {
       "versionRule": "v1.3-beta-1",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.3-beta-1/app.jar",
-      "executable": false,
-      "execType": "none"
+      "executable": true,
+      "execType": "java"
     },
     {
       "versionRule": "v1.2.3",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.2.3/app.jar",
-      "executable": false,
-      "execType": "none"
+      "executable": true,
+      "execType": "java"
     },
     {
       "versionRule": "v1.2.2",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.2.2/app.jar",
-      "executable": false,
-      "execType": "none"
+      "executable": true,
+      "execType": "java"
     },
     {
       "versionRule": "v1.2.1",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.2.1/app.jar",
-      "executable": false,
-      "execType": "none"
+      "executable": true,
+      "execType": "java"
     },
     {
       "versionRule": "v1.2.0",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.2.0/app.jar",
-      "executable": false,
-      "execType": "none"
+      "executable": true,
+      "execType": "java"
     },
     {
       "versionRule": "v1.1.0",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.1.0/app.jar",
-      "executable": false,
-      "execType": "none"
+      "executable": true,
+      "execType": "java"
     },
     {
       "versionRule": "v1.0.2",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.0.2/app.jar",
-      "executable": false,
-      "execType": "none"
+      "executable": true,
+      "execType": "java"
     },
     {
       "versionRule": "v1.0.1",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.0.1/app.jar",
-      "executable": false,
-      "execType": "none"
+      "executable": true,
+      "execType": "java"
     },
     {
       "versionRule": "v1.0.0",
       "url": "https://api.github.com/repos/Stoppedwumm/JavaBase/zipball/v1.0.0",
       "executable": false,
-      "execType": "none"
+      "execType": "java"
     }
   ]
 }
