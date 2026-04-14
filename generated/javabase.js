@@ -1,9 +1,15 @@
 const fs = require('fs');
 const path = require('path');
 
-// DEBUG: Check if file exists relative to this script
-const targetPath = path.resolve(__dirname, "../libs/update.js", false, ".jar");
+// REMOVE the extra arguments from path.resolve
+// path.resolve only takes path segments as strings
+const targetPath = path.resolve(__dirname, "../libs/update.js");
+
 console.log("Checking path:", targetPath);
 console.log("Exists:", fs.existsSync(targetPath));
 
-module.exports = require("../lib/update.js")("Stoppedwumm/JavaBase");
+// Fix the module require path (ensure it matches your file structure)
+// You had "libs/update.js" in the console, but "lib/update.js" in the require
+const updateModule = require("../libs/update.js"); 
+
+module.exports = updateModule("Stoppedwumm/JavaBase", false, "java", "jar");
