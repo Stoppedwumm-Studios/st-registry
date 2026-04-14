@@ -3,6 +3,12 @@
   "path": "g/JavaBase",
   "url": [
     {
+      "versionRule": "v1.3",
+      "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.3/app.jar",
+      "executable": true,
+      "execType": "java"
+    },
+    {
       "versionRule": "v1.3-beta-1.1.2",
       "url": "https://github.com/Stoppedwumm/JavaBase/releases/download/v1.3-beta-1.1.2/app.jar",
       "executable": true,
