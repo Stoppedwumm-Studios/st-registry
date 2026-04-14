@@ -4,37 +4,51 @@
   "url": [
     {
       "versionRule": "v1.2.1",
-      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/v1.2.1/release_osx"
+      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/v1.2.1/release_osx",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "v1.1.1",
-      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/v1.1.1/release_osx"
+      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/v1.1.1/release_osx",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "vBeta",
-      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/vBeta/release_osx"
+      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/vBeta/release_osx",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "1.2.0",
-      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/1.2.0/release_osx"
+      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/1.2.0/release_osx",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "v1.1.0",
-      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/v1.1.0/release_osx"
+      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/v1.1.0/release_osx",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "v1.0.2",
-      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/v1.0.2/release_osx"
+      "url": "https://github.com/Stoppedwumm/hyperPatchClient/releases/download/v1.0.2/release_osx",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "v1.0.1",
-      "url": "https://api.github.com/repos/Stoppedwumm/hyperPatchClient/zipball/v1.0.1"
+      "url": "https://api.github.com/repos/Stoppedwumm/hyperPatchClient/zipball/v1.0.1",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "v1.0.0",
-      "url": "https://api.github.com/repos/Stoppedwumm/hyperPatchClient/zipball/v1.0.0"
+      "url": "https://api.github.com/repos/Stoppedwumm/hyperPatchClient/zipball/v1.0.0",
+      "executable": false,
+      "execType": "none"
     }
-  ],
-  "executable": false,
-  "execType": "none"
+  ]
 }

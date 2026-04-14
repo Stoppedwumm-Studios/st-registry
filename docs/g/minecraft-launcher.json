@@ -4,45 +4,63 @@
   "url": [
     {
       "versionRule": "1.3.0",
-      "url": "https://github.com/StoppedwummPython/minecraft-launcher/releases/download/1.3.0/installer-mac"
+      "url": "https://github.com/StoppedwummPython/minecraft-launcher/releases/download/1.3.0/installer-mac",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "1.2.1",
-      "url": "https://github.com/StoppedwummPython/minecraft-launcher/releases/download/1.2.1/installer-mac"
+      "url": "https://github.com/StoppedwummPython/minecraft-launcher/releases/download/1.2.1/installer-mac",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "1.2.0",
-      "url": "https://github.com/StoppedwummPython/minecraft-launcher/releases/download/1.2.0/installer-mac"
+      "url": "https://github.com/StoppedwummPython/minecraft-launcher/releases/download/1.2.0/installer-mac",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "1.1.5",
-      "url": "https://github.com/StoppedwummPython/minecraft-launcher/releases/download/1.1.5/installer-mac"
+      "url": "https://github.com/StoppedwummPython/minecraft-launcher/releases/download/1.1.5/installer-mac",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "1.1.4",
-      "url": "https://api.github.com/repos/StoppedwummPython/minecraft-launcher/zipball/1.1.4"
+      "url": "https://api.github.com/repos/StoppedwummPython/minecraft-launcher/zipball/1.1.4",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "1.1.3",
-      "url": "https://api.github.com/repos/StoppedwummPython/minecraft-launcher/zipball/1.1.3"
+      "url": "https://api.github.com/repos/StoppedwummPython/minecraft-launcher/zipball/1.1.3",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "1.1.2",
-      "url": "https://github.com/StoppedwummPython/minecraft-launcher/releases/download/1.1.2/installer"
+      "url": "https://github.com/StoppedwummPython/minecraft-launcher/releases/download/1.1.2/installer",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "1.1.1",
-      "url": "https://api.github.com/repos/StoppedwummPython/minecraft-launcher/zipball/1.1.1"
+      "url": "https://api.github.com/repos/StoppedwummPython/minecraft-launcher/zipball/1.1.1",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "1.1.0",
-      "url": "https://api.github.com/repos/StoppedwummPython/minecraft-launcher/zipball/1.1.0"
+      "url": "https://api.github.com/repos/StoppedwummPython/minecraft-launcher/zipball/1.1.0",
+      "executable": false,
+      "execType": "none"
     },
     {
       "versionRule": "1.0.0",
-      "url": "https://api.github.com/repos/StoppedwummPython/minecraft-launcher/zipball/1.0.0"
+      "url": "https://api.github.com/repos/StoppedwummPython/minecraft-launcher/zipball/1.0.0",
+      "executable": false,
+      "execType": "none"
     }
-  ],
-  "executable": false,
-  "execType": "none"
+  ]
 }
