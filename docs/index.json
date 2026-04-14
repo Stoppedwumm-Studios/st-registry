@@ -16,6 +16,11 @@
       "url": "https://stoppedwumm-studios.github.io/st-registry/g/hyperPatchClient.json"
     },
     {
+      "name": "invidious",
+      "path": "g/invidious",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/g/invidious.json"
+    },
+    {
       "name": "JavaBase",
       "path": "g/JavaBase",
       "url": "https://stoppedwumm-studios.github.io/st-registry/g/JavaBase.json"
