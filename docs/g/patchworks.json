@@ -1,0 +1,19 @@
+{
+  "name": "patchworks",
+  "path": "g/patchworks",
+  "url": [
+    {
+      "versionRule": "v1.0.1",
+      "url": "https://github.com/StoppedwummPython/patchworks/releases/download/v1.0.1/app-all.jar",
+      "executable": true,
+      "execType": "java"
+    },
+    {
+      "versionRule": "v1.0.0",
+      "url": "https://github.com/StoppedwummPython/patchworks/releases/download/v1.0.0/app-all.jar",
+      "executable": true,
+      "execType": "java"
+    }
+  ],
+  "origin": "StoppedwummPython/patchworks"
+}

@@ -36,6 +36,11 @@
       "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge.json"
     },
     {
+      "name": "patchworks",
+      "path": "g/patchworks",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/g/patchworks.json"
+    },
+    {
       "name": "sumatrapdf",
       "path": "g/sumatrapdf",
       "url": "https://stoppedwumm-studios.github.io/st-registry/g/sumatrapdf.json"
