@@ -34,6 +34,11 @@
       "name": "neoforge-installer",
       "path": "m/nforge",
       "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge.json"
+    },
+    {
+      "name": "sumatrapdf",
+      "path": "g/sumatrapdf",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/g/sumatrapdf.json"
     }
   ],
   "documentation": "https://github.com/Stoppedwumm-Studios/st-registry"

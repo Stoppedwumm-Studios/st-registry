@@ -1,0 +1,103 @@
+{
+  "name": "sumatrapdf",
+  "path": "g/sumatrapdf",
+  "url": [
+    {
+      "versionRule": "3.6.1rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.6.1rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.6rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.6rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.5.2rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.5.2rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.5.1rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.5.1rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.5rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.5rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.4.6rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.4.6rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.4.5rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.4.5rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.4.4rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.4.4rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.4.3",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.4.3",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.3.3rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.3.3rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.3.2rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.3.2rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.3.1rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.3.1rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.3rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.3rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.2rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.2rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.1.1rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.1.1rel",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "3.1rel",
+      "url": "https://api.github.com/repos/sumatrapdfreader/sumatrapdf/zipball/3.1rel",
+      "executable": false,
+      "execType": "none"
+    }
+  ],
+  "origin": "sumatrapdfreader/sumatrapdf"
+}
