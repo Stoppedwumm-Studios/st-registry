@@ -9,7 +9,7 @@ console.log("Checking path:", targetPath);
 console.log("Exists:", fs.existsSync(targetPath));
 
 // Fix the module require path (ensure it matches your file structure)
-// You had "libs/update.js" in the console, but "lib/update.js" in the require
+// You had "lib/update.js" in the console, but "lib/update.js" in the require
 const updateModule = require("../lib/update.js"); 
 
 module.exports = updateModule("StoppedwummPython/patchworks", false, "java", "jar");
