@@ -1,0 +1,13 @@
+{
+  "name": "EaglerSPPythonRelay",
+  "path": "g/EaglerSPPythonRelay",
+  "url": [
+    {
+      "versionRule": "v1.0.1",
+      "url": "https://github.com/StoppedwummPython/EaglerSPPythonRelay/releases/download/v1.0.1/__main__.exe",
+      "executable": true,
+      "execType": "osx"
+    }
+  ],
+  "origin": "StoppedwummPython/EaglerSPPythonRelay"
+}

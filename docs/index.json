@@ -6,9 +6,9 @@
       "url": "https://stoppedwumm-studios.github.io/st-registry/m/minecraft.json"
     },
     {
-      "name": "EaglerSPRelay",
-      "path": "stmg/EaglerSPRelay",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/stmg/EaglerSPRelay.json"
+      "name": "EaglerSPPythonRelay",
+      "path": "g/EaglerSPPythonRelay",
+      "url": "https://stoppedwumm-studios.github.io/st-registry/g/EaglerSPPythonRelay.json"
     },
     {
       "name": "hyperPatchClient",
