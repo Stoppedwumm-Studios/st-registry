@@ -6,4 +6,4 @@ const targetPath = path.resolve(__dirname, "../lib/update.js");
 console.log("Checking path:", targetPath);
 console.log("Exists:", fs.existsSync(targetPath));
 
-module.exports = require("../lib/update.js")("StoppedwummPython/EaglerSPPythonRelay", true, "exe", "exe");
+module.exports = require("../lib/update.js")("StoppedwummPython/EaglerSPPythonRelay", true, "bin", "exe");
