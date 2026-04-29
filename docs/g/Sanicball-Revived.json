@@ -1,0 +1,13 @@
+{
+  "name": "Sanicball-Revived",
+  "path": "g/Sanicball-Revived",
+  "url": [
+    {
+      "versionRule": "v0.8.2",
+      "url": "https://github.com/Stoppedwumm/Sanicball-Revived/releases/download/v0.8.2/debug-mac.app.zip",
+      "executable": false,
+      "execType": "none"
+    }
+  ],
+  "origin": "Stoppedwumm/Sanicball-Revived"
+}
