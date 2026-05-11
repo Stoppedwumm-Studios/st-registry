@@ -3,6 +3,18 @@
   "path": "g/Sanicball-Revived",
   "url": [
     {
+      "versionRule": "v0.9.1",
+      "url": "https://github.com/Stoppedwumm/Sanicball-Revived/releases/download/v0.9.1/sball-mac.app.zip",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "v0.9.0",
+      "url": "https://github.com/Stoppedwumm/Sanicball-Revived/releases/download/v0.9.0/mac.app.zip",
+      "executable": false,
+      "execType": "none"
+    },
+    {
       "versionRule": "v0.8.2",
       "url": "https://github.com/Stoppedwumm/Sanicball-Revived/releases/download/v0.8.2/debug-mac.app.zip",
       "executable": false,
