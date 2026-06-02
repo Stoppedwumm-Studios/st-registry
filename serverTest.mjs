@@ -39,7 +39,7 @@ test('Index file contains modules', async () => {
 });
 // test if each module has a name and path
 test('Each module has a name and path', async () => {
-    const response = await fetch('https://stoppedwumm-studios.github.io/st-registry/index.json');
+    const response = await fetch(INDEX_URL);
     const data = await response.json();
     data.modules.forEach(module => {
         assert.strictEqual(typeof module.name, 'string', 'Module name is not a string');
@@ -52,7 +52,7 @@ test('Each module has a name and path', async () => {
 });
 // test if each module has a valid URL
 test('Each module has a valid URL', async () => {
-    const response = await fetch('https://stoppedwumm-studios.github.io/st-registry/index.json');
+    const response = await fetch(INDEX_URL);
     const data = await response.json();
     data.modules.forEach(module => {
         if (typeof module.url === 'string') {
