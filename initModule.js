@@ -52,4 +52,7 @@ async function main() {
     fs.writeFileSync('./registryConfig.json', JSON.stringify(currentConfig, null, 4));
 }
 
-main()
+main().catch((err) => {
+    console.error(err);
+    process.exit(1);
+});
