@@ -1,6 +1,5 @@
 const currentConfig = require('./registryConfig.json');
 const fs = require('fs');
-const path = require('path');
 
 function getInputFromPrompt(prompt) {
     const readline = require('readline');
