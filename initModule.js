@@ -1,8 +1,8 @@
 const currentConfig = require('./registryConfig.json');
 const fs = require('fs');
+const readline = require('readline');
 
 function getInputFromPrompt(prompt) {
-    const readline = require('readline');
     const rl = readline.createInterface({
         input: process.stdin,
         output: process.stdout
@@ -43,7 +43,7 @@ async function main() {
         currentConfig.module.push({
             name: name,
             path: pathInput,
-            url: versions
+            versions: versions
         });
     } else {
         console.error('Invalid input. Please enter "url" or "version".');
@@ -52,4 +52,7 @@ async function main() {
     fs.writeFileSync('./registryConfig.json', JSON.stringify(currentConfig, null, 4));
 }
 
-main()
+main().catch((err) => {
+    console.error(err);
+    process.exit(1);
+});
