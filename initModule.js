@@ -28,7 +28,7 @@ async function main() {
             url: url
         });
     } else if (urlOrVersion.toLowerCase() === 'version') {
-        let versions = []
+        let versions = [];
         while (true) {
             const version = await getInputFromPrompt('Enter the version rule (or "done" to finish): ');
             if (version.toLowerCase() === 'done') {
