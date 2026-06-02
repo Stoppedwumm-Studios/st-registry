@@ -119,5 +119,3 @@ test('Each version rule has a valid file', async () => {
         }
     });
 })
-
-// write all tests to a file
