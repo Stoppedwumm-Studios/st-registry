@@ -2,7 +2,6 @@
 
 import { test } from 'node:test';
 import assert from 'node:assert';
-import path from 'node:path';
 
 // test reachability of the server
 test('Server is reachable', async () => {
