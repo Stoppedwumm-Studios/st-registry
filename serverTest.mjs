@@ -25,7 +25,7 @@ test('Index file exists', async () => {
 test('Index file is valid JSON', async () => {
     const response = await fetch(INDEX_URL);
     const data = await response.json();
-    assert.strictEqual(typeof data, 'object', 'Index file is not valid JSON');
+    assert.ok(data !== null && typeof data === 'object', 'Index file is not valid JSON');
     console.log('Index file is valid JSON');
     console.log(data);
 });
