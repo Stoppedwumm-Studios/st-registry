@@ -43,7 +43,7 @@ async function main() {
         currentConfig.module.push({
             name: name,
             path: pathInput,
-            url: versions
+            versions: versions
         });
     } else {
         console.error('Invalid input. Please enter "url" or "version".');
