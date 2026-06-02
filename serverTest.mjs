@@ -3,16 +3,19 @@
 import { test } from 'node:test';
 import assert from 'node:assert';
 
+const BASE_URL = 'https://stoppedwumm-studios.github.io/st-registry/';
+const INDEX_URL = new URL('index.json', BASE_URL).toString();
+
 // test reachability of the server
 test('Server is reachable', async () => {
-    const response = await fetch('https://stoppedwumm-studios.github.io/st-registry/');
+    const response = await fetch(BASE_URL);
     console.log('Server is reachable');
     assert.strictEqual(response.ok, true, 'Server is not reachable');
 });
 
 // test if the index file exists
 test('Index file exists', async () => {
-    const response = await fetch('https://stoppedwumm-studios.github.io/st-registry/index.json');
+    const response = await fetch(INDEX_URL);
     assert.strictEqual(response.ok, true, 'Index file does not exist');
     console.log('Index file exists');
     console.log(await response.text())
@@ -20,7 +23,7 @@ test('Index file exists', async () => {
 
 // test if the index file is valid JSON
 test('Index file is valid JSON', async () => {
-    const response = await fetch('https://stoppedwumm-studios.github.io/st-registry/index.json');
+    const response = await fetch(INDEX_URL);
     const data = await response.json();
     assert.strictEqual(typeof data, 'object', 'Index file is not valid JSON');
     console.log('Index file is valid JSON');
@@ -28,7 +31,7 @@ test('Index file is valid JSON', async () => {
 });
 // test if the index file contains modules
 test('Index file contains modules', async () => {
-    const response = await fetch('https://stoppedwumm-studios.github.io/st-registry/index.json');
+    const response = await fetch(INDEX_URL);
     const data = await response.json();
     assert.ok(Array.isArray(data.modules) && data.modules.length > 0, 'Index file does not contain any modules');
     console.log('Index file contains modules');
@@ -74,7 +77,7 @@ test('Each module has a valid URL', async () => {
 
 // test if each module has a valid version rule
 test('Each module has a valid version rule', async () => {
-    const response = await fetch('https://stoppedwumm-studios.github.io/st-registry/index.json');
+    const response = await fetch(INDEX_URL);
     const data = await response.json();
     data.modules.forEach(module => {
         if (Array.isArray(module.url)) {
@@ -95,7 +98,7 @@ test('Each module has a valid version rule', async () => {
 
 // test if each version rule has a valid file
 test('Each version rule has a valid file', async () => {
-    const response = await fetch('https://stoppedwumm-studios.github.io/st-registry/index.json');
+    const response = await fetch(INDEX_URL);
     const data = await response.json();
     for (const module of data.modules) {
         if (Array.isArray(module.url)) {
