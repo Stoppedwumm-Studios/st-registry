@@ -86,7 +86,7 @@ for (const version of versions) {
 unmodified.url = versions.map(v => {
     return {
         versionRule: v,
-        url: "https://stoppedwumm-studios.github.io/st-registry/files/neoforge.releases/"+ v + ".json"
+        url: "https://registry.stoppedwumm.net/files/neoforge.releases/"+ v + ".json"
     };
 });
 

@@ -3,7 +3,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert';
 
-const BASE_URL = 'https://stoppedwumm-studios.github.io/st-registry/';
+const BASE_URL = 'https://registry.stoppedwumm.net/';
 const INDEX_URL = new URL('index.json', BASE_URL).toString();
 
 // test reachability of the server
