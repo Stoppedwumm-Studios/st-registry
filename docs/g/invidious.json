@@ -3,6 +3,30 @@
   "path": "g/invidious",
   "url": [
     {
+      "versionRule": "v2.20260804.1",
+      "url": "https://api.github.com/repos/iv-org/invidious/zipball/v2.20260804.1",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "v2.20260804.0",
+      "url": "https://api.github.com/repos/iv-org/invidious/zipball/v2.20260804.0",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "v2.20260723.0",
+      "url": "https://api.github.com/repos/iv-org/invidious/zipball/v2.20260723.0",
+      "executable": false,
+      "execType": "none"
+    },
+    {
+      "versionRule": "v2.20260626.0",
+      "url": "https://api.github.com/repos/iv-org/invidious/zipball/v2.20260626.0",
+      "executable": false,
+      "execType": "none"
+    },
+    {
       "versionRule": "v2.20260207.0",
       "url": "https://api.github.com/repos/iv-org/invidious/zipball/v2.20260207.0",
       "executable": false,
@@ -155,30 +179,6 @@
     {
       "versionRule": "0.8.0",
       "url": "https://api.github.com/repos/iv-org/invidious/zipball/0.8.0",
-      "executable": false,
-      "execType": "none"
-    },
-    {
-      "versionRule": "0.7.0",
-      "url": "https://api.github.com/repos/iv-org/invidious/zipball/0.7.0",
-      "executable": false,
-      "execType": "none"
-    },
-    {
-      "versionRule": "0.6.0",
-      "url": "https://api.github.com/repos/iv-org/invidious/zipball/0.6.0",
-      "executable": false,
-      "execType": "none"
-    },
-    {
-      "versionRule": "0.5.0",
-      "url": "https://api.github.com/repos/iv-org/invidious/zipball/0.5.0",
-      "executable": false,
-      "execType": "none"
-    },
-    {
-      "versionRule": "0.4.0",
-      "url": "https://api.github.com/repos/iv-org/invidious/zipball/0.4.0",
       "executable": false,
       "execType": "none"
     }

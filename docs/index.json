@@ -3,52 +3,52 @@
     {
       "name": "minecraft",
       "path": "m/minecraft",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/m/minecraft.json"
+      "url": "https://registry.stoppedwumm.net/m/minecraft.json"
     },
     {
       "name": "EaglerSPPythonRelay",
       "path": "g/EaglerSPPythonRelay",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/g/EaglerSPPythonRelay.json"
+      "url": "https://registry.stoppedwumm.net/g/EaglerSPPythonRelay.json"
     },
     {
       "name": "hyperPatchClient",
       "path": "g/hyperPatchClient",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/g/hyperPatchClient.json"
+      "url": "https://registry.stoppedwumm.net/g/hyperPatchClient.json"
     },
     {
       "name": "invidious",
       "path": "g/invidious",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/g/invidious.json"
+      "url": "https://registry.stoppedwumm.net/g/invidious.json"
     },
     {
       "name": "JavaBase",
       "path": "g/JavaBase",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/g/JavaBase.json"
+      "url": "https://registry.stoppedwumm.net/g/JavaBase.json"
     },
     {
       "name": "minecraft-launcher",
       "path": "g/minecraft-launcher",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/g/minecraft-launcher.json"
+      "url": "https://registry.stoppedwumm.net/g/minecraft-launcher.json"
     },
     {
       "name": "neoforge-installer",
       "path": "m/nforge",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/m/nforge.json"
+      "url": "https://registry.stoppedwumm.net/m/nforge.json"
     },
     {
       "name": "patchworks",
       "path": "g/patchworks",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/g/patchworks.json"
+      "url": "https://registry.stoppedwumm.net/g/patchworks.json"
     },
     {
       "name": "Sanicball-Revived",
       "path": "g/Sanicball-Revived",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/g/Sanicball-Revived.json"
+      "url": "https://registry.stoppedwumm.net/g/Sanicball-Revived.json"
     },
     {
       "name": "sumatrapdf",
       "path": "g/sumatrapdf",
-      "url": "https://stoppedwumm-studios.github.io/st-registry/g/sumatrapdf.json"
+      "url": "https://registry.stoppedwumm.net/g/sumatrapdf.json"
     }
   ],
   "documentation": "https://github.com/Stoppedwumm-Studios/st-registry"
