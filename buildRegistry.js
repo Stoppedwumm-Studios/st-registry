@@ -11,6 +11,7 @@ fs.mkdirSync(path.join(__dirname, 'docs', 'files'), { recursive: true });
 fs.mkdirSync(path.join(__dirname, 'docs', 'm'), { recursive: true });
 fs.mkdirSync(path.join(__dirname, 'docs', 'generated'), { recursive: true });
 fs.mkdirSync(path.join(__dirname, 'tmp'), { recursive: true });
+fs.writeFileSync(path.join(__dirname, 'docs', 'CNAME'), "registry.stoppedwumm.net");
 
 const generatedModules = fs.readdirSync(path.join(__dirname, 'generated'))
 
