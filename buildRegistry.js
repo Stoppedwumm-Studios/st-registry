@@ -33,6 +33,7 @@ console.log("=============================================");
 console.log("Index file generated successfully.");
 console.time("writeModuleFiles");
 modules.module.forEach(m => {
+    console.log(m);
     fs.mkdirSync(path.join(__dirname, 'docs', path.dirname(m.path)), { recursive: true });
     fs.writeFileSync(path.join(__dirname, 'docs', m.path + '.json'), JSON.stringify(m, null, 2));
     console.log(m.name + " file generated successfully.");
