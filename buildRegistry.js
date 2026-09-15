@@ -54,7 +54,7 @@ modules.module.forEach(m => {
         m.url.forEach(u => {
             const version = u.versionRule;
             moduleIndexFile[version] = {
-                url: "https://stoppedwumm-studios.github.io/st-registry/" + m.path + "/" + version + ".json"
+                url: "https://registry.stoppedwumm.net/" + m.path + "/" + version + ".json"
             }
         })
         fs.writeFileSync(path.join(__dirname, 'docs', m.path, "index.json"), JSON.stringify(moduleIndexFile, null, 2));
